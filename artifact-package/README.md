@@ -6,7 +6,7 @@ source_url: "https://x.com/fofrAI/status/2064749295165669581"
 score: 8
 artifact_tracks: [prototype, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-12
+last_improved: 2026-06-15
 github_repo: "https://github.com/vinayclawagent-art/diffusiongemma-latency-ux-lab"
 tags: [artifact-package, x-intel, local-ai, latency, inference]
 ---
@@ -26,6 +26,7 @@ Diffusion language models may matter less as benchmark winners and more as a UX 
 ## Generated artifacts
 
 - Prototype: [[DiffusionGemma Latency UX Lab/Latency UX Test Matrix]]
+- Evidence attachment: [[DiffusionGemma Latency UX Lab/Latency Evidence Attachment Card]]
 - Improvement loop: [[DiffusionGemma Latency UX Lab Loop]]
 
 ## Prototype brief
@@ -42,7 +43,7 @@ No installed skill yet; revisit after a successful repeatable trial.
 
 ## Improvement backlog
 
-- Attach first real trial evidence.
+- Fill [[DiffusionGemma Latency UX Lab/Latency Evidence Attachment Card]] with command logs, latency table, quality notes, baseline comparison, and UX observations from the first sandbox run.
 - Replace assumptions with logs, examples, or screenshots.
 - Decide whether to promote into a reusable skill/repo after proof.
 
@@ -53,3 +54,4 @@ https://github.com/vinayclawagent-art/diffusiongemma-latency-ux-lab
 ## Change log
 
 - 2026-06-12: Created package, prototype artifact, GitHub repo mirror, and improvement loop.
+- 2026-06-15: Added a latency evidence attachment card for the next sandbox run; template-ready, not validated.

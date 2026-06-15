@@ -14,7 +14,11 @@ Inspired by: https://x.com/fofrAI/status/2064749295165669581
 
 ## Quickstart
 
-Open the prototype markdown file and fill it during a real trial. This repo intentionally ships templates and gates, not fabricated validation results.
+Open the prototype markdown file and fill it during a real Colab/local latency trial, then fill `prototype/Latency Evidence Attachment Card.md` with command logs, per-task latency, qualitative UX notes, baseline comparison, and failure examples. This repo intentionally ships templates and gates, not fabricated validation results.
+
+## Latest improvement
+
+2026-06-15: Added `prototype/Latency Evidence Attachment Card.md` so the first sandbox run has explicit log, quality, baseline, and UX-note slots before any validation claim.
 
 ## Source
 
@@ -23,6 +27,6 @@ Open the prototype markdown file and fill it during a real trial. This repo inte
 
 ## Roadmap
 
-- Attach first real trial evidence.
+- Fill the latency evidence attachment card from one real sandbox Colab/local run.
 - Convert repeated proof into a runnable harness or CLI.
 - Promote the skill draft only after the workflow succeeds in real use.
