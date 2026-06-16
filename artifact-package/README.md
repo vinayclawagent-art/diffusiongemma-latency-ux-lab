@@ -27,6 +27,7 @@ Diffusion language models may matter less as benchmark winners and more as a UX 
 
 - Prototype: [[DiffusionGemma Latency UX Lab/Latency UX Test Matrix]]
 - Evidence attachment: [[DiffusionGemma Latency UX Lab/Latency Evidence Attachment Card]]
+- Decision gate: [[DiffusionGemma Latency UX Lab/Post-Trial Promotion Decision Card]]
 - Improvement loop: [[DiffusionGemma Latency UX Lab Loop]]
 
 ## Prototype brief
@@ -43,7 +44,7 @@ No installed skill yet; revisit after a successful repeatable trial.
 
 ## Improvement backlog
 
-- Fill [[DiffusionGemma Latency UX Lab/Latency Evidence Attachment Card]] with command logs, latency table, quality notes, baseline comparison, and UX observations from the first sandbox run.
+- Fill [[DiffusionGemma Latency UX Lab/Latency Evidence Attachment Card]] with command logs, latency table, quality notes, baseline comparison, and UX observations from the first sandbox run, then complete [[DiffusionGemma Latency UX Lab/Post-Trial Promotion Decision Card]] before promoting or iterating the lab.
 - Replace assumptions with logs, examples, or screenshots.
 - Decide whether to promote into a reusable skill/repo after proof.
 
@@ -55,3 +56,4 @@ https://github.com/vinayclawagent-art/diffusiongemma-latency-ux-lab
 
 - 2026-06-12: Created package, prototype artifact, GitHub repo mirror, and improvement loop.
 - 2026-06-15: Added a latency evidence attachment card for the next sandbox run; template-ready, not validated.
+- 2026-06-15: Added a post-trial promotion decision card to route future latency/quality evidence into promote / pilot-only / iterate / hold; prepared, not validated.

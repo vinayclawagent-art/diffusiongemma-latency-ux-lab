@@ -8,14 +8,15 @@ Diffusion language models may matter less as benchmark winners and more as a UX 
 
 ## How to use
 
-Open `Latency UX Test Matrix.md` and fill it during a real Colab/local latency trial. Then use `Latency Evidence Attachment Card.md` to attach command logs, per-task latency, qualitative UX notes, baseline comparison, and failure examples. Keep evidence links in the packet; do not mark validation complete until artifacts are attached.
+Open `Latency UX Test Matrix.md` and fill it during a real Colab/local latency trial. Then use `Latency Evidence Attachment Card.md` to attach command logs, per-task latency, qualitative UX notes, baseline comparison, and failure examples. Finally complete `Post-Trial Promotion Decision Card.md` to route the result to promote / pilot-only / iterate / hold. Keep evidence links in the packet; do not mark validation complete until artifacts are attached.
 
 ## Latest improvement
 
-2026-06-15: Added a Latency Evidence Attachment Card so the first sandbox run has explicit log, quality, baseline, and UX-note slots before any validation claim.
+2026-06-15: Added a Post-Trial Promotion Decision Card so the first sandbox run has an explicit evidence-to-product-fit gate before any promotion claim.
 
 ## Next iteration ideas
 
 - Run one real trial.
 - Fill the Latency Evidence Attachment Card from one real sandbox Colab/local run.
+- Complete the Post-Trial Promotion Decision Card from the filled evidence bundle.
 - Convert repeated steps into a script or installed skill only after proof.
